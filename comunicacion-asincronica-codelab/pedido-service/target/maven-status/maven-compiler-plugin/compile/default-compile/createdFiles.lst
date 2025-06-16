@@ -1,0 +1,5 @@
+com/example/pedidoservice/PedidoController.class
+com/example/pedidoservice/PedidoServiceApplication.class
+com/example/pedidoservice/RabbitMQConfig.class
+com/example/pedidoservice/PedidoConsumer.class
+com/example/pedidoservice/ProductoDTO.class

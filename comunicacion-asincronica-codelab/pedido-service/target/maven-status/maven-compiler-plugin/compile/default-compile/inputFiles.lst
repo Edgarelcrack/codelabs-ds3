@@ -1,0 +1,5 @@
+/home/cocodrelo/Desktop/github/comunicacion_asincronica/pedido-service/src/main/java/com/example/pedidoservice/PedidoConsumer.java
+/home/cocodrelo/Desktop/github/comunicacion_asincronica/pedido-service/src/main/java/com/example/pedidoservice/PedidoController.java
+/home/cocodrelo/Desktop/github/comunicacion_asincronica/pedido-service/src/main/java/com/example/pedidoservice/PedidoServiceApplication.java
+/home/cocodrelo/Desktop/github/comunicacion_asincronica/pedido-service/src/main/java/com/example/pedidoservice/ProductoDTO.java
+/home/cocodrelo/Desktop/github/comunicacion_asincronica/pedido-service/src/main/java/com/example/pedidoservice/RabbitMQConfig.java
