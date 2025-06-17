@@ -1,5 +1,5 @@
-/home/cocodrelo/Desktop/github/comunicacion_asincronica/pedido-service/src/main/java/com/example/pedidoservice/PedidoConsumer.java
-/home/cocodrelo/Desktop/github/comunicacion_asincronica/pedido-service/src/main/java/com/example/pedidoservice/PedidoController.java
-/home/cocodrelo/Desktop/github/comunicacion_asincronica/pedido-service/src/main/java/com/example/pedidoservice/PedidoServiceApplication.java
-/home/cocodrelo/Desktop/github/comunicacion_asincronica/pedido-service/src/main/java/com/example/pedidoservice/ProductoDTO.java
-/home/cocodrelo/Desktop/github/comunicacion_asincronica/pedido-service/src/main/java/com/example/pedidoservice/RabbitMQConfig.java
+/home/cocodrelo/Desktop/github/codelabs-ds3/comunicacion-asincronica-codelab/pedido-service/src/main/java/com/example/pedidoserviceasync/PedidoConsumer.java
+/home/cocodrelo/Desktop/github/codelabs-ds3/comunicacion-asincronica-codelab/pedido-service/src/main/java/com/example/pedidoserviceasync/PedidoController.java
+/home/cocodrelo/Desktop/github/codelabs-ds3/comunicacion-asincronica-codelab/pedido-service/src/main/java/com/example/pedidoserviceasync/PedidoserviceasyncApplication.java
+/home/cocodrelo/Desktop/github/codelabs-ds3/comunicacion-asincronica-codelab/pedido-service/src/main/java/com/example/pedidoserviceasync/ProductoDTO.java
+/home/cocodrelo/Desktop/github/codelabs-ds3/comunicacion-asincronica-codelab/pedido-service/src/main/java/com/example/pedidoserviceasync/RabbitMQConfig.java

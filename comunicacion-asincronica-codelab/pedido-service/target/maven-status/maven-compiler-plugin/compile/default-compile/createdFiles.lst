@@ -1,5 +1,5 @@
-com/example/pedidoservice/PedidoController.class
-com/example/pedidoservice/PedidoServiceApplication.class
-com/example/pedidoservice/RabbitMQConfig.class
-com/example/pedidoservice/PedidoConsumer.class
-com/example/pedidoservice/ProductoDTO.class
+com/example/pedidoserviceasync/PedidoserviceasyncApplication.class
+com/example/pedidoserviceasync/PedidoController.class
+com/example/pedidoserviceasync/RabbitMQConfig.class
+com/example/pedidoserviceasync/PedidoConsumer.class
+com/example/pedidoserviceasync/ProductoDTO.class

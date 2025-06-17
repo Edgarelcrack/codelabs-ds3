@@ -1,5 +1,5 @@
-com/example/productoservice/RabbitMQConfig.class
-com/example/productoservice/ProductorService.class
-com/example/productoservice/ProductoController.class
-com/example/productoservice/ProductoDTO.class
-com/example/productoservice/ProductoServiceApplication.class
+com/example/productoserviceasync/ProductoserviceasyncApplication.class
+com/example/productoserviceasync/ProductorService.class
+com/example/productoserviceasync/ProductoDTO.class
+com/example/productoserviceasync/RabbitMQConfig.class
+com/example/productoserviceasync/ProductoController.class

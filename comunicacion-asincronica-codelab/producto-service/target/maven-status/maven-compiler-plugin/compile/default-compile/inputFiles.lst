@@ -1,5 +1,5 @@
-/home/cocodrelo/Desktop/github/comunicacion_asincronica/producto-service/src/main/java/com/example/productoservice/ProductoController.java
-/home/cocodrelo/Desktop/github/comunicacion_asincronica/producto-service/src/main/java/com/example/productoservice/ProductoDTO.java
-/home/cocodrelo/Desktop/github/comunicacion_asincronica/producto-service/src/main/java/com/example/productoservice/ProductoServiceApplication.java
-/home/cocodrelo/Desktop/github/comunicacion_asincronica/producto-service/src/main/java/com/example/productoservice/ProductorService.java
-/home/cocodrelo/Desktop/github/comunicacion_asincronica/producto-service/src/main/java/com/example/productoservice/RabbitMQConfig.java
+/home/cocodrelo/Desktop/github/codelabs-ds3/comunicacion-asincronica-codelab/producto-service/src/main/java/com/example/productoserviceasync/ProductoController.java
+/home/cocodrelo/Desktop/github/codelabs-ds3/comunicacion-asincronica-codelab/producto-service/src/main/java/com/example/productoserviceasync/ProductoDTO.java
+/home/cocodrelo/Desktop/github/codelabs-ds3/comunicacion-asincronica-codelab/producto-service/src/main/java/com/example/productoserviceasync/ProductorService.java
+/home/cocodrelo/Desktop/github/codelabs-ds3/comunicacion-asincronica-codelab/producto-service/src/main/java/com/example/productoserviceasync/ProductoserviceasyncApplication.java
+/home/cocodrelo/Desktop/github/codelabs-ds3/comunicacion-asincronica-codelab/producto-service/src/main/java/com/example/productoserviceasync/RabbitMQConfig.java
